@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1.34em" height="1em" viewBox="0 0 32 24">
-	<path d="M0 0h32v24H0z" fill="none" />
-	<g fill="none">
-		<path fill="#f7fcff" fill-rule="evenodd" d="M0 0v24h32V0z" clip-rule="evenodd" />
-		<mask id="SVGcFaS5cXn" width="32" height="24" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
-			<path fill="#fff" fill-rule="evenodd" d="M0 0v24h32V0z" clip-rule="evenodd" />
-		</mask>
-		<g mask="url(#SVGcFaS5cXn)">
-			<path fill="#e31d1c" fill-rule="evenodd" d="M16 19.5a7.5 7.5 0 1 0 0-15a7.5 7.5 0 0 0 0 15" clip-rule="evenodd" />
-		</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1.34em" height="1em" viewBox="0 0 640 480">
+	<path d="M0 0h640v480H0z" fill="none" />
+	<defs>
+		<clipPath id="SVGSZhguefA">
+			<path fill-opacity=".7" d="M-88 32h640v480H-88z" />
+		</clipPath>
+	</defs>
+	<g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#SVGSZhguefA)" transform="translate(88 -32)">
+		<path fill="#fff" d="M-128 32h720v480h-720z" />
+		<circle cx="523.1" cy="344.1" r="194.9" fill="#bc002d" transform="translate(-168.4 8.6)scale(.76554)" />
 	</g>
 </svg>
